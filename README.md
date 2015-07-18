@@ -6,7 +6,7 @@ A simple plugin to post some information about up and down event for your uptime
 We rely on `slack-notify` as this is a 10 minutes project :)
 Read more about slack integration here: https://api.slack.com/incoming-webhooks
 [Slack notify](https://github.com/andrewchilds/slack-notify)
-So do not forget to run `npm install slack-notify` in your uptime folder
+So do not forget to run `npm install` in the slack-uptime folder.
 
 ## Installation
 
@@ -27,8 +27,8 @@ slack:
   channel: '#yourgroupORchannel'
 ```
 
-In the uptime folder please run :
+In the plugin slack-uptime folder please run :
 
-`npm install slack-notify`
+`npm install`
 
 Enjoy !
